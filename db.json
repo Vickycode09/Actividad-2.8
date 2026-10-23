@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "name": "Diego ",
+      "email": "diego.hernandez@nexo.mx",
+      "department": "Ingeniería",
+      "position": "Desarrollador frontend",
+      "salary": 58000,
+      "status": "Activo",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Valentina Cruz",
+      "email": "valentina.cruz@nexo.mx",
+      "department": "Marketing",
+      "position": "Especialista de contenido",
+      "salary": 36500,
+      "status": "Activo"
+    },
+    {
+      "id": 4,
+      "name": "Mateo Torres",
+      "email": "mateo.torres@nexo.mx",
+      "department": "Operaciones",
+      "position": "Coordinador de operaciones",
+      "salary": 39000,
+      "status": "Inactivo"
+    },
+    {
+      "id": 5,
+      "name": "Camila Flores",
+      "email": "camila.flores@nexo.mx",
+      "department": "Personas",
+      "position": "People partner",
+      "salary": 44500,
+      "status": "Activo"
+    }
+  ]
+}
